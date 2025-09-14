@@ -7,7 +7,8 @@ I'm an IT student and software, game, and AI development major.
 ## Contatos:
 
 <a href="https://youtube.com/@felliperibeiroteixeira?si=8AHaOa4ghnpu4Jo5" target="_blank"><img loading="lazy" src="https://github.com/felliperibeiroteixeira/felliperibeiroteixeira/blob/main/svg/YOUTUBE.svg" target="_blank"></a>
-<a href="https://www.linkedin.com/in/fellipe-ribeiro-teixeira-235330182?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  " target="_blank"><img loading="lazy" src="https://github.com/felliperibeiroteixeira/felliperibeiroteixeira/blob/main/svg/LINKEDIN.svg" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/fellipe-ribeiro-teixeira-235330182?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  " target="_blank"><img loading="lazy" src="https://github.com/felliperibeiroteixeira/felliperibeiroteixeira/blob/main/svg/LINKEDIN.svg" target="_blank"></a>
+<a href="https://www.linkedin.com/in/fellipe-ribeiro-teixeira-235330182?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  " target="_blank"><img loading="lazy" src="https://github.com/felliperibeiroteixeira/felliperibeiroteixeira/blob/main/svg/DISCORD.svg" target="_blank"></a>
 
 ## Tools and Technologies
 
