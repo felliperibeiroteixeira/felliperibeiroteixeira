@@ -4,6 +4,11 @@
 I'm a student and enthusiast in the STEAM field.
 I'm an IT student and software, game, and AI development major.
 
+## Contatos:
+
+<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://github.com/felliperibeiroteixeira/felliperibeiroteixeira/blob/main/svg/YOUTUBE.svg&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://github.com/felliperibeiroteixeira/felliperibeiroteixeira/blob/main/svg/LINKEDIN.svg&logo=linkedin&logoColor=white" target="_blank"></a>   
+
 ## Tools and Technologies
 
 <img loading="lazy" src="https://github.com/felliperibeiroteixeira/felliperibeiroteixeira/blob/main/svg/html5-original.svg" width="40" height="40" align="left"/>
