@@ -18,7 +18,7 @@ I'm an IT student and software, game, and AI development major.
 <img loading="lazy" src="https://github.com/felliperibeiroteixeira/felliperibeiroteixeira/blob/main/svg/linux-original.svg" width="40" height="40" align="left"/>
 <img loading="lazy" src="https://github.com/felliperibeiroteixeira/felliperibeiroteixeira/blob/main/svg/debian-original.svg" width="40" height="40" align="left"/>
 <img loading="lazy" src="https://github.com/felliperibeiroteixeira/felliperibeiroteixeira/blob/main/svg/git.svg" width="40" height="40" align="left"/>
-<a href="https://nodejs.org/pt" target="_blank"><img loading="lazy" src="https://github.com/felliperibeiroteixeira/felliperibeiroteixeira/blob/main/svg/nodejs-original-wordmark.svg" width="40" height="40" align="left"/>
+<a href="https://nodejs.org/pt" target="_blank"><img loading="lazy" src="https://github.com/felliperibeiroteixeira/felliperibeiroteixeira/blob/main/svg/nodejs-original-wordmark.svg" width="40" height="40" align="left"/></a>
 <img loading="lazy" src="https://github.com/felliperibeiroteixeira/felliperibeiroteixeira/blob/main/svg/apache-original.svg" width="40" height="40" align="left"/>
 <img loading="lazy" src="https://github.com/felliperibeiroteixeira/felliperibeiroteixeira/blob/main/svg/azuresqldatabase-original.svg" width="40" height="40" align="left"/>
 <img loading="lazy" src="https://github.com/felliperibeiroteixeira/felliperibeiroteixeira/blob/main/svg/mysql-original-wordmark.svg" width="40" height="40" align="left"/>
